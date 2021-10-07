@@ -1,1 +1,1 @@
-# otpauth
+# otpt
